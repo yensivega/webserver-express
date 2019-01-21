@@ -1,0 +1,3 @@
+## Codigo del ejercicio 6
+
+solo estoy probando...
